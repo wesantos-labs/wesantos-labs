@@ -1,16 +1,19 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**wesantos-labs/wesantos-labs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#     <img src="https://usagif.com/wp-content/uploads/gifs/fire-65.gif" width="60px"> Hi Welcome <img src="https://usagif.com/wp-content/uploads/gifs/fire-65.gif" width="60px">
+  
+</div>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="left">
+  
+![tr](https://user-images.githubusercontent.com/82295321/216838418-a5439aad-43df-40e1-ac12-5f48291ecdab.gif)
+  
+</div>
+
+<div align="left">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=A825F7&width=435&lines=O+futuro+pertence+a+aqueles+que+;se+peparam++para+isso+hoje!;Malcon+X)](https://git.io/typing-svg)
+  
+</div>
+
